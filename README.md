@@ -1,8 +1,8 @@
 My name is Jirakid Aiadhet
 ================================================================================================================================================
-I'm a student at Walailak University
 
 - 👋  Hi, I’m @TOEYJIRAKID or TOEY
+- 🎓  I'm a student at Walailak University
 - 🌍  I'm based in Songkhla, Thailand
 - ✉️  You can reach me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
 - 👀  I’m interested in Software Tester or Quality Assurance

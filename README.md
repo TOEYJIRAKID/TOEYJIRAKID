@@ -13,7 +13,7 @@ I'm a Student at Walilak University
 -----------------------------------
 
 * 🌍  I'm based in Surattani, Thailand
-* ✉️  You can contact me at [googlps4za@gmail.com](mailto:googlps4za@gmail.com)
+* ✉️  You can contact me at [googlps4za@gmail.com](mailto:jirakid2002@gmail.com)
 * 🧠  I'm learning about Network Monitoring
 
 ### Skills

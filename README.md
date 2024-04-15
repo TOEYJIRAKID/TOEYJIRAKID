@@ -12,9 +12,10 @@ My name is Ratchanon Chukiattakerng
 I'm a Student at Walilak University
 -----------------------------------
 
-* 🌍  I'm based in Surattani, Thailand
+* 🌍  I'm based in Songkhla, Thailand
 * ✉️  You can contact me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
-* 🧠  I'm learning about Network Monitoring
+* 👀  I’m interested in Software Tester / Quality Assurance
+* 🌱  I’m currently learning ...
 
 ### Skills
 

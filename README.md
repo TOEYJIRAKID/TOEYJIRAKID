@@ -1,21 +1,14 @@
-- 👋 Hi, I’m @TOEYJIRAKID
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-My name is Ratchanon Chukiattakerng
+My name is Jirakit Aiadhet
 ================================================================================================================================================
 
-I'm a Student at Walilak University
+I'm a student at Walailak University
 -----------------------------------
-
+- 👋  Hi, I’m @TOEYJIRAKID or TOEY
 - 🌍  I'm based in Songkhla, Thailand
-- ✉️  You can contact me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
-- 👀  I’m interested in Software Tester / Quality Assurance
-- 🌱  I’m currently learning ...
+- ✉️  You can reach me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
+- 👀  I’m interested in Software Tester or Quality Assurance
+- 🌱  I'm currently learning Python, SQL and exploring various software testing methodologies to broaden my skills as a software tester.
+- 💻  My technical skills include proficiency in using testing tools like Selenium, Postman and experience in manual testing, automate testing.
 
 ### Skills
 

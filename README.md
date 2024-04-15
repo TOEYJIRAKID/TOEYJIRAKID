@@ -27,10 +27,10 @@ Skills
   <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.selenium.dev/" target="\_blank" rel="noreferrer"><img src="NEW_SELENIUM_ICON_URL" width="36" height="36" alt="Selenium" /></a>
-  <a href="https://insomnia.rest/" target="\_blank" rel="noreferrer"><img src="NEW_INSOMNIA_ICON_URL" width="36" height="36" alt="Insomnia" /></a>
-  <a href="https://www.postman.com/" target="\_blank" rel="noreferrer"><img src="NEW_POSTMAN_ICON_URL" width="36" height="36" alt="Postman" /></a>
-  <a href="https://robotframework.org/" target="\_blank" rel="noreferrer"><img src="NEW_ROBOT_FRAMEWORK_ICON_URL" width="36" height="36" alt="Robot Framework" /></a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" width="36" height="36" alt="Selenium" /></a>
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" width="36" height="36" alt="Insomnia" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="36" height="36" alt="Postman" /></a>
+  <a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/robotframework/robotframework/master/docs/logo/robotframework-icon.svg" width="36" height="36" alt="Robot Framework" /></a></a>
   
 </p>
 

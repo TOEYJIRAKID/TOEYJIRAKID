@@ -28,7 +28,6 @@ Skills
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" width="36" height="36" alt="Selenium" /></a>
   <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/insomnia.svg" width="36" height="36" alt="Insomnia" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="36" height="36" alt="Postman" /></a>
-  <a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/robotframework.svg" width="36" height="36" alt="Robot Framework" /></a>
   
 </p>
 

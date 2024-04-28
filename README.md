@@ -5,9 +5,6 @@ My name is Jirakid Aiadhet
 - 🎓  I'm a student at Walailak University
 - 🌍  I'm based in Songkhla, Thailand
 - ✉️  You can reach me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
-- 👀  I’m interested in Software Tester or Quality Assurance
-- 🌱  I'm currently learning Python, SQL and exploring various software testing methodologies to broaden my skills as a software tester.
-- 💻  My technical skills include proficiency in using testing tools like Selenium, Postman and experience in manual testing, automate testing.
 
 Skills
 -----------------------------------

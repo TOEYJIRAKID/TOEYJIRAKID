@@ -32,11 +32,3 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
 <a href="http://www.github.com/TOEYJIRAKID"><img src="https://github-readme-stats.vercel.app/api?username=TOEYJIRAKID&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="TOEYJIRAKID's GitHub stats" /></a>
 
 <a href="https://github.com/TOEYJIRAKID" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOEYJIRAKID&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/TOEYJIRAKID/dev-portfolio-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TOEYJIRAKID&repo=dev-portfolio-project&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/TOEYJIRAKID/Camping-Booking-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TOEYJIRAKID&repo=Camping-Booking-Website&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/TOEYJIRAKID/Attack-Analytics-Dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TOEYJIRAKID&repo=Attack-Analytics-Dashboard&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/TOEYJIRAKID/Attendance-System-IOT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TOEYJIRAKID&repo=Attendance-System-IOT&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en" /></a></div>

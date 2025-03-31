@@ -12,7 +12,7 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
 * ✉️  You can contact me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
 * 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on App Development, Web Development, Machine Learning
-* ⚡  I would like to learn Spring Boot... but I'm lasy. 🤣
+* ⚡  I would like to learn Spring Boot... but I'm so lasy. 🤣
 
 ### Skills
 

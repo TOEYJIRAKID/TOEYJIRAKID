@@ -8,7 +8,7 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
 
 * 🌍  I'm based in Thailand
 * 👴  My old github account [TOEYJIRAKIT](https://github.com/TOEYJIRAKIT)
-* 🖥️  See my portfolio at [MyPortfolio](http://port-toeyjira.vercel.app/)
+* 🖥️  See my portfolio at [PORT-TOEYJIRA](http://port-toeyjira.vercel.app/)
 * ✉️  You can contact me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
 * 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on App Development, Game Development, Machine Learning

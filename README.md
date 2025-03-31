@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been coding for 3+ years, specializing in web development and the MERN Stack. Experienced in C# (ASP.NET MVC), JavaScript, and Python, with projects in Machine Learning and Web Development. Always eager to learn and improve. My old github account [TOEYJIRAKIT](https://github.com/TOEYJIRAKIT)
+I've been coding for 3+ years, specializing in web development and the MERN Stack. Experienced in C# (ASP.NET MVC), JavaScript, and Python, with projects in Machine Learning and Web Development. Always eager to learn and improve.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://port-toeyjira.vercel.app/)
@@ -12,6 +12,7 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
 * 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on App Development, Game Development, Machine Learning
 * ⚡  I would like to learn Spring Boot... but I'm lasy. 🤣
+* My old github account [TOEYJIRAKIT](https://github.com/TOEYJIRAKIT)
 
 ### Skills
 

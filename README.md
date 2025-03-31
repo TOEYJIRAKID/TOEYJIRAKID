@@ -29,3 +29,17 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
 ### Badges
 
 <a href="https://github.com/TOEYJIRAKID" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOEYJIRAKID&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ <a href="#">
+   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=TOEYJIRAKID&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+ </a>
+ <a href="#">
+   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=TOEYJIRAKID&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+ </a>
+ 
+ <a href=#><img src="contributions.svg"></a>
+ 
+ <p align="center">
+   Visitor count<br>
+   <img src="https://profile-counter.glitch.me/TOEYJIRAKID/count.svg" />
+ </p>

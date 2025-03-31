@@ -11,7 +11,7 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
 * 🖥️  See my portfolio at [PORT-TOEYJIRA](http://port-toeyjira.vercel.app/)
 * ✉️  You can contact me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
 * 🧠  I'm currently learning Next.js
-* 🤝  I'm open to collaborating on App Development, Game Development, Machine Learning
+* 🤝  I'm open to collaborating on App Development, Web Development, Machine Learning
 * ⚡  I would like to learn Spring Boot... but I'm lasy. 🤣
 
 ### Skills

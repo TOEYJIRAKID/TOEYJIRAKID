@@ -7,12 +7,12 @@ Web Developer
 I've been coding for 3+ years, specializing in web development and the MERN Stack. Experienced in C# (ASP.NET MVC), JavaScript, and Python, with projects in Machine Learning and Web Development. Always eager to learn and improve.
 
 * 🌍  I'm based in Thailand
+* 👴  My old github account [TOEYJIRAKIT](https://github.com/TOEYJIRAKIT)
 * 🖥️  See my portfolio at [MyPortfolio](http://port-toeyjira.vercel.app/)
 * ✉️  You can contact me at [jirakid2002@gmail.com](mailto:jirakid2002@gmail.com)
 * 🧠  I'm currently learning Next.js
 * 🤝  I'm open to collaborating on App Development, Game Development, Machine Learning
 * ⚡  I would like to learn Spring Boot... but I'm lasy. 🤣
-* My old github account [TOEYJIRAKIT](https://github.com/TOEYJIRAKIT)
 
 ### Skills
 

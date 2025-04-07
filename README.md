@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been coding for 3+ years, specializing in web development and the MERN Stack. Experienced in C# (ASP.NET MVC), JavaScript, and Python, with projects in Machine Learning and Web Development. Always eager to learn and improve.
+I've been coding for 3+ years, specializing in web development and the MERN Stack. Experienced in C# (ASP.NET MVC), JavaScript and Python, with projects in Machine Learning and Web Development. Always eager to learn and improve.
 
 * 🌍  I'm based in Thailand
 * 👴  My old github account [TOEYJIRAKIT](https://github.com/TOEYJIRAKIT)

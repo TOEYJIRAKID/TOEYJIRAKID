@@ -88,8 +88,3 @@ I've been coding for 3+ years, specializing in web development and the MERN Stac
  </a>
  
  <a href=#><img src="contributions.svg"></a>
- 
- <p align="center">
-   Visitor count<br>
-   <img src="https://profile-counter.glitch.me/TOEYJIRAKID/count.svg" />
- </p>
